@@ -10,9 +10,12 @@ The data and objective are pulled from the __2017 ISIC Challenge on Skin Lesion 
 If you would like to read more about some of the algorithms that were successful in this competition, please read this article that discusses some of the best approaches. 
 A few of the corresponding research papers appear below.
 ```diff
-- text
-https://placehold.it/150/f03c15/ff0000?text=hello
-Matsunaga K, Hamada A, Minagawa A, Koga H. “Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble”. International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI).
+Author(s):  Matsunaga K, Hamada A, Minagawa A, Koga H.
+Source(s): 
+- Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble
+
+
+ “Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble”. International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI).
 
 Daz IG. “Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions”. International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI). (github)
 
