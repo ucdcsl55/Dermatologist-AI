@@ -12,7 +12,7 @@ A few of the corresponding research papers appear below.
 
 **********************************************************
 __Author(s)__:  Matsunaga K, Hamada A, Minagawa A, Koga H.
-__Paper(s)__: 
+<br>__Paper(s)__: 
 ```diff
 # "Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble".
 # International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI).
@@ -20,18 +20,18 @@ __Paper(s)__:
 __Source(s)__: https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf
 **********************************************************
 __Author(s)__:  Daz IG.
-__Paper(s)__: 
+<br>__Paper(s)__: 
 ```diff
 # “Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions”. 
-# International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI). (github)
+# International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI).
 ```
 __Source(s)__: https://arxiv.org/pdf/1703.01976.pdf
 **********************************************************
 __Author(s)__:  Menegola A, Tavares J, Fornaciali M, Li LT, Avila S, Valle E.
-__Paper(s)__: 
+<br>__Paper(s)__: 
 ```diff
 # “RECOD Titans at ISIC Challenge 2017”. 
-# International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI). (github)
+# International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI).
 ```
 __Source(s)__: https://arxiv.org/abs/1703.04819
 
