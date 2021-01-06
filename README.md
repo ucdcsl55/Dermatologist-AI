@@ -11,9 +11,9 @@ If you would like to read more about some of the algorithms that were successful
 A few of the corresponding research papers appear below.
 ```diff
 Author(s):  Matsunaga K, Hamada A, Minagawa A, Koga H.
-Source(s): 
+Paper(s): 
 - Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble
-
+Source(s): https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf
 
  “Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble”. International Skin Imaging Collaboration (ISIC) 2017 Challenge at the International Symposium on Biomedical Imaging (ISBI).
 
