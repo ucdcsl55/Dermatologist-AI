@@ -46,4 +46,4 @@ While the original challenge provided additional data (such as the gender and ag
 ![ROC](https://github.com/ucdcsl55/Dermatologist-AI/blob/main/ROC_result.png?raw=true)\
 
 ### Confusion Matrix
-![CM](https://github.com/ucdcsl55/Dermatologist-AI/blob/main/Confusion_Matrix.png?raw=true)
+![CM](https://github.com/ucdcsl55/Dermatologist-AI/blob/main/Confusion Matrix.png?raw=true)
