@@ -36,3 +36,14 @@ __Author(s)__:  Menegola A, Tavares J, Fornaciali M, Li LT, Avila S, Valle E.
 __Source(s)__: https://arxiv.org/abs/1703.04819
 
 While the original challenge provided additional data (such as the gender and age of the patients), we only provide the image data to you. If you would like to download this additional patient data, you may do so at the competition website.
+
+
+## MyResults
+### Category Score
+![CateScore](https://github.com/ucdcsl55/Dermatologist-AI/blob/main/Category_Score.png?raw=true)
+
+### ROC Curve
+![ROC](https://github.com/ucdcsl55/Dermatologist-AI/blob/main/ROC_result.png?raw=true)\
+
+### Confusion Matrix
+![CM](https://github.com/ucdcsl55/Dermatologist-AI/blob/main/Confusion_Matrix.png?raw=true)
